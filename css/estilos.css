@@ -1,0 +1,136 @@
+body{
+	background-color: ;
+	background-image: url(../images/fondopelu.jpeg);
+	width: px;
+	height: px;
+}
+#header{
+ 	background-color: #2a292e ;
+ 	width: px;
+ 	height: px;
+ 	border-style: ;
+ 	border-radius: 5px;
+ 	padding: 10px;
+ 	padding-bottom: 5px;
+ 	margin: 5px;
+}
+#nav{
+	background-color: #4f2361;
+	border-style: inset;
+	border-radius: 5px;
+	text-align: left;
+	color:#0EC1BC;
+	color: #ffffff;
+	font-size: 15px;
+	padding: 5px;
+	margin: 5px;
+}
+a{
+	color: #ffffff;
+	text-decoration: none;
+}
+#article{
+	background-color: #7f5281 ;
+	width: px;
+	height: 155px;
+	border-style: inset;
+	border-color: #ffffff;
+	border-radius: 10px;
+	padding: 5px;
+	padding-top: 10px;
+	margin: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: px;
+	margin-left: px;
+}
+#main{
+	background-color: #7f5281 ;
+	width: 935px;
+	height:1430px;
+	border-style: inset;
+	padding:10px;
+	padding-right: 10px;
+	margin: 10px;
+	display: inline-flex;
+}
+#table{
+	border-style: ;
+	border-radius: 5px;
+}
+#clientes{
+	background-color: #7f5281 ;
+	width: 320px;
+	height:1440px;
+	border-style: inset;
+	border-color: #ffffff;
+	padding: 5px;
+	padding-bottom: 5px;
+	margin: px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	display: inline-flex;
+}
+#aside{
+	background-image: url();fondotienda3.jpeg
+	width: px;
+	height: 230px;
+	color: ;
+	border-top: outset;
+	border-bottom: outset;
+	border-style: ;
+	border-color: ;
+	border-radius: 5px;
+	padding-bottom: 2px;
+	margin: 5px;
+	margin-bottom: 3px;
+}
+#servicios{
+	background-color:#7f5281;
+	width: 1270;
+	height: 800;
+	border-style: inset;
+	padding:20px;
+	padding-top: 10px;
+	margin: 5px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+#turnos{
+	background-color:#7f5281;
+	width: 1270;
+	height: 900;
+	color: #ffffff;
+	border-style: inset;
+	padding:20px;
+	margin: 5px;
+}
+.btn-wsp{
+	position: fixed;
+	width: 55px;
+	height: 55px;
+	line-height: 50px;
+	bottom: 70px;
+	right: 50px;
+	background: #0df053;
+	color: #fff;
+	border-radius: 100px;
+	text-align: center;
+	font-size: 55px;
+	box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+	z-index: 100;
+}
+#footer{
+	background-color: #2a292e;
+	width: px;
+	height: px;
+	color: #ffffff;
+	font-size: 15px;
+	font-family: Arial;
+	border-style: inset;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
